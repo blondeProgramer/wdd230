@@ -22,6 +22,7 @@ img{
 .my-name{
     font-size: 50pt;
     text-align: center;
+    padding-top: 65px;
 }
 .lessons-list{
     grid-row: 2/5;
@@ -33,7 +34,7 @@ img{
 .info-text{
     font-size: 10pt;
     font-style: italic;
-    color:lightslategray;
+    color:slategrey;
 }
 footer {
     grid-row: 5/6;
