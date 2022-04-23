@@ -43,3 +43,6 @@ footer {
     width: 100%;
     text-align: center;
 }
+.footer-first-line > div{
+    display: inline-block;
+}
